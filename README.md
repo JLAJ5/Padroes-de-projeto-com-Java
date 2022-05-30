@@ -18,7 +18,7 @@ Azul Zuku v. 11.0.15, IntelliJ IDEA, Spring Initialzr, Spring Web, Spring Data J
 ## 💻Demonstração da API Rest
 
 <p align="center">
-	<img src="" width="880">
+	<img src="https://github.com/rosacarla/Padroes-de-projeto-com-Java/blob/main/Projeto-Spring-APIRest.gif" width="880">
 </p>  
 
 ---  
