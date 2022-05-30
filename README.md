@@ -1,8 +1,6 @@
 # 🗒️Padrões de Projetos com Java  
 <p align="justify">	
-	
-Implementaram-se padrões de projeto com Java (Singleton, Strategy/Repository, Facade). Uma das versões utiliza o Spring Framework no desenvolvimento de uma solução API Rest com a ViaCep API. Tecnologias utilizadas: OpenJDK Azul Zuku v. 11.0.15, IntelliJ IDEA, Spring Initialzr, Spring Web, Spring Data JPA, H2 Database, PpenFeign, Open API. Projeto realizado conforme proposta dos desafios de projeto dos bootcamps _GFT Start Woman Java_ e _GFT Start #5 Java_, promovidos pela plataforma [Digital Innovation One Inc.](https://web.dio.me).
-
+Implementaram-se padrões de projeto com Java (Singleton, Strategy/Repository, Facade). Uma das versões utiliza o Spring Framework no desenvolvimento de uma solução API Rest com a ViaCep API. Tecnologias utilizadas: OpenJDK Azul Zuku v. 11.0.15, IntelliJ IDEA, Spring Initialzr, Spring Web, Spring Data JPA, H2 Database, PpenFeign, Open API. 
 </p>
 
 ---  
