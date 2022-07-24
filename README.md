@@ -7,23 +7,16 @@ Implementaram-se padrões de projeto com Java (Singleton, Strategy/Repository, F
 
 ## 🔡Implementações  
 
-* Design Patterns - Java: [Singleton](https://github.com/rosacarla/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/singleton) | [Strategy](https://github.com/rosacarla/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/strategy) | [Facade](https://github.com/rosacarla/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/facade) | 
-* Design Patterns - Spring: [API Rest](https://github.com/rosacarla/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-spring)  
+* Design Patterns - Java: [Singleton](https://github.com/JLAJ5/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/singleton) | [Strategy](https://github.com/JLAJ5/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/strategy) | [Facade](https://github.com/JLAJ5/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-java/src/dio/com/design/patterns/java/facade) | 
+* Design Patterns - Spring: [API Rest](https://github.com/JLAJ5/Padroes-de-projeto-com-Java/tree/main/lab-design-patterns-spring)  
 
 ---   
 
 ## 💻Demonstração da API Rest
 
 <p align="center">
-	<img src="https://github.com/rosacarla/Padroes-de-projeto-com-Java/blob/main/Projeto-Spring-APIRest.gif" width="880">
+	<img src="https://github.com/JLAJ5/Padroes-de-projeto-com-Java/blob/main/Projeto-Spring-APIRest.gif" width="880">
 </p>  
-
----  
-
-## ✍️Autora  
-  
-Carla Edila Silveira  
-Contato: rosa.carla@pucpr.edu.br  
 
 ---  
 
